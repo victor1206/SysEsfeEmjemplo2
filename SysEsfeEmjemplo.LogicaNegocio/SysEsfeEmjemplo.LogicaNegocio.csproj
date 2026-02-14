@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SysEsfeEmjemplo.AccesoDatos\SysEsfeEmjemplo.AccesoDatos.csproj" />
+    <ProjectReference Include="..\SysEsfeEmjemplo.Entidades\SysEsfeEmjemplo.Entidades.csproj" />
+  </ItemGroup>
+
+</Project>
